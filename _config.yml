@@ -6,19 +6,19 @@ output: web
 topnav_title: Keep Secure you-will-be Protected
 # this appears on the top navigation bar next to the home button
 
-site_title: Jekyll theme for documentation
+site_title: KSyP.tech
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Copyright 2021 Google LLC
+company_name: Copyright 2024 KSyP.co.uk
 # this appears in the footer
 
-github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
+github_editme_path: kalvinparker/KSyP.tech
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-# gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
+# gitlab_editme_path: kalvinparker/KSyP.tech
 # if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-google_analytics: UA-66296557-1
+google_analytics: G-TP2J468HFB
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
 
 host: 127.0.0.1
@@ -35,7 +35,7 @@ exclude:
 
 feedback_subject_line: Jekyll documentation theme
 
-feedback_email: tomjoht@gmail.com
+feedback_email: contactus@KSyP.co.uk
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
