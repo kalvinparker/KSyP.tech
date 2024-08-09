@@ -143,5 +143,3 @@ confidently protect your valuable data.
 # Contribution
 
 We encourage your contributions to enhance our platform. Whether you are a seasoned IT security expert, a system administrator, or a technology enthusiast, your input is valuable. We welcome suggestions for new products or features, updates to existing offerings, bug reports, and corrections. Please refer to our contribution guidelines for detailed information.
-
-If you manage product release information, such as end-of-life dates or support details, we provide best practices and a checklist to assist in effective publication.
