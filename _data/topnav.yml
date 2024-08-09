@@ -14,15 +14,17 @@ topnav_dropdowns:
   folders:
     - title: CVE DB
       folderitems:
-        - title: CVE Website (Prime database)
+        - title: Common Vulnerabilty and Exposures DB
           external_url: https://www.cve.org/
         - title: Understanding vulnerabilities (UK)
           external_url: https://www.ncsc.gov.uk/collection/vulnerability-management/understanding-vulnerabilities
+        - title: Common Vulnerability Scoring System
+          external_url: https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System
         - title: National (US) Vulnerability Database
           external_url: https://nvd.nist.gov/vuln/
         - title: Known Exploited Vulnerabilities Catalog
           external_url: http://idratherbewriting.com/category-jekyll/
-        - title: CVE Details
+        - title: CVE Details (3rd Party)
           external_url: https://www.cvedetails.com/
     - title: Vendors
       folderitems:
