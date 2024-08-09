@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/tomjoht/documentation-theme-jekyll
+      external_url: https://github.com/kalvinparker/KSyP.tech
     - title: News
       url: /news
 
@@ -12,16 +12,18 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Help
+    - title: CVE databases
       folderitems:
-        - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
-          external_url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
+        - title: CVE Website (Prime database)
+          external_url: https://www.cve.org/
+        - title: Understanding vulnerabilities (UK)
+          external_url: https://www.ncsc.gov.uk/collection/vulnerability-management/understanding-vulnerabilities
+        - title: National (US) Vulnerability Database
+          external_url: https://nvd.nist.gov/vuln/
+        - title: Known Exploited Vulnerabilities Catalog
           external_url: http://idratherbewriting.com/category-jekyll/
+        - title: CVE Details
+          external_url: https://www.cvedetails.com/
     - title: Products
       folderitems:
         - title: Jekyll Documentation Theme
