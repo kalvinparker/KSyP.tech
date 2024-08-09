@@ -6,24 +6,7 @@ sidebar: mydoc_sidebar
 permalink: index.html
 summary: Safeguarding your digital assets can be a daunting challenge, regardless of whether you're an individual or a large corporation. Offering expert guidance to navigate this complex terrain. We help you proactively identify vulnerabilities, prioritize risks, and implement robust security measures. With us, you can confidently protect your valuable data. Keep Secure, you-will-be Protected (KSyP).
 ---
-
-
-
-{% unless site.output == "pdf" %}
-<script src="js/jquery.shuffle.min.js"></script>
-<script src="js/jquery.ba-throttle-debounce.min.js"></script>
-{% endunless %}
-
-      <div class="filter-options">
-      <button class="btn btn-primary" data-group="all">All</button>
-      <button class="btn btn-primary" data-group="getting_started">Getting Started</button>
-      <button class="btn btn-primary" data-group="formatting">Formatting</button>
-      <button class="btn btn-primary" data-group="publishing">Publishing</button>
-      <button class="btn btn-primary" data-group="content-types">Content types</button>
-          <button class="btn btn-primary" data-group="single_sourcing">Single Sourcing</button>
-      <button class="btn btn-primary" data-group="special_layouts">Special Layouts</button>
-    </div>      
-
+  
 <div id="grid" class="row">
 
 
