@@ -24,7 +24,7 @@ topnav_dropdowns:
           external_url: http://idratherbewriting.com/category-jekyll/
         - title: CVE Details
           external_url: https://www.cvedetails.com/
-    - title: Products
+    - title: Vendors
       folderitems:
         - title: Jekyll Documentation Theme
           url: /mydoc_introduction.html
