@@ -1,11 +1,15 @@
 ---
-title: "Providing comprehensive support throughout your IT security risk management journey"
+title: ""
 keywords: IT security risk management, cybersecurity, data protection, risk assessment, threat assessment, vulnerability management, compliance, data breach, cyberattack, IT security resources, security advice, cloud security, on-premise security, hybrid security, small business security, enterprise security, small business, enterprise, individual, home user, proactive security, risk mitigation,  data protection, compliance assistance, cost-effective security
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: Safeguarding your digital assets can be a daunting challenge, regardless of whether you're an individual or a large corporation. Offering expert guidance to navigate this complex terrain. We help you proactively identify vulnerabilities, prioritize risks, and implement robust security measures. With us, you can confidently protect your valuable data. Keep Secure, you-will-be Protected (KSyP).
+summary:  Providing comprehensive support throughout your IT security risk management journey.
 ---
+
+Safeguarding your digital assets can be a daunting challenge, regardless of whether you're an individual or a large corporation. Offering expert guidance to
+navigate this complex terrain. We help you proactively identify vulnerabilities, prioritize risks, and implement robust security measures. With us, you can
+confidently protect your valuable data.
   
 <div id="grid" class="row">
 
