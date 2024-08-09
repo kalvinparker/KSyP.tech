@@ -12,7 +12,7 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: CVE databases
+    - title: CVE DB
       folderitems:
         - title: CVE Website (Prime database)
           external_url: https://www.cve.org/
