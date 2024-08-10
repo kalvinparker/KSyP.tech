@@ -3,6 +3,8 @@
 topnav:
 - title: Topnav
   items:
+    - title: Splash page
+      external_url: https://www.KSyP.co.uk
     - title: GitHub
       external_url: https://github.com/kalvinparker/KSyP.tech
     - title: News
