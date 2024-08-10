@@ -179,12 +179,12 @@ entries:
       url: /mydoc_workflow_maps.html
       output: web, pdf
 
-  - title: Handling reviews
+  - title: Methodology
     output: web, pdf
 
     folderitems:
-    - title: Commenting on files
-      url: /mydoc_commenting_on_files.html
+    - title: Secure System Design
+      url: /secure_system_design.html
       output: web, pdf
 
 #    - title: Git collaboration
