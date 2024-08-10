@@ -179,7 +179,7 @@ entries:
       url: /mydoc_workflow_maps.html
       output: web, pdf
 
-  - title: Methodology
+  - title: Methodologies
     output: web, pdf
 
     folderitems:
