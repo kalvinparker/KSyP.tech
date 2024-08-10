@@ -1,8 +1,8 @@
 ---
-title: "Publishing pages"
-tagName: publishing
+title: "Methodology"
+tagName: Methodology
 search: exclude
-permalink: tag_publishing.html
+permalink: tag_methodology.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
