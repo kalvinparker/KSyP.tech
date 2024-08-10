@@ -99,7 +99,7 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-    - title: Middleware Services
+    - title: Middleware/Micro Services
       url: /mydoc_lists.html
       output: web, pdf
 
@@ -107,7 +107,15 @@ entries:
       url: /mydoc_conditional_logic.html
       output: web, pdf
 
+    - title: Endpoint Protection Platforms
+      url: /mydoc_content_reuse.html
+      output: web, pdf
+
     - title: Backup solutions
+      url: /mydoc_content_reuse.html
+      output: web, pdf
+
+    - title: SIEM's
       url: /mydoc_content_reuse.html
       output: web, pdf
 
