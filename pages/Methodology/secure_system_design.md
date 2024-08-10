@@ -1,18 +1,17 @@
 ---
 title: Secure System Design
 tags: Methodology
-  - navigation
 keywords: "secure system design, system security, secure software development, secure by design, system architecture, security architecture, risk management, threat modeling, vulnerability assessment, compliance, data protection, privacy, cybersecurity, IT security, information security, secure coding, software security, application security, infrastructure security, cloud security, network security, secure development lifecycle, SDLC, DevOps security, DevSecOps, secure system development, secure system implementation, secure system maintenance"
 last_updated: "August 10, 2024"
-summary: "Secure system design is the cornerstone of a robust cybersecurity posture."
+summary: "It's akin to building a house on a solid foundation – if the foundation is weak, the entire structure is at risk."
 sidebar: mydoc_sidebar
 permalink: secure_system_design.html
 folder: Methodology
 ---
 
-# The importance of Secure System Design
+## The importance of Secure System Design
 
-Secure system design is the cornerstone of a robust cybersecurity posture. It's akin to building a house on a solid foundation – if the foundation is weak, the entire structure is at risk.
+Secure system design is the cornerstone of a robust cybersecurity posture.
 
 Here's why it's crucial:
 
@@ -23,3 +22,5 @@ Here's why it's crucial:
 * Business Continuity: A system designed with security in mind is more resilient to attacks, reducing downtime and potential financial losses.
 * Risk Mitigation: By anticipating potential threats and designing countermeasures, you minimize the risk of data breaches, system failures, and reputational damage.
 * In essence, secure system design is about building systems that are not just functional but also resilient, trustworthy, and protected from the ever-evolving threat landscape.
+
+{% include links.html %}
