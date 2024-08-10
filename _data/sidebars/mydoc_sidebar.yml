@@ -115,9 +115,14 @@ entries:
       url: /mydoc_content_reuse.html
       output: web, pdf
 
-    - title: SIEM's
-      url: /mydoc_content_reuse.html
-      output: web, pdf
+      subfolders:
+      - title: SIEM's
+        output: web
+        subfolderitems:
+
+        - title: ELK
+          url: /tag_formatting.html
+          output: web, pdf
 
     - title: Frameworks
       url: /mydoc_install_jekyll_on_windows.html
