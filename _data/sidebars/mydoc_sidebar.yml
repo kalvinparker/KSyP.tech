@@ -22,24 +22,19 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Get started
-      url: /index.html
-      output: web, pdf
-      type: homepage
-
     - title: Introduction
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Supported features
+    - title: Recommendations and Checklist
       url: /mydoc_supported_features.html
       output: web, pdf
 
-    - title: About the theme author
+    - title: Vendors and Developers
       url: /mydoc_about.html
       output: web, pdf
 
-    - title: Support
+    - title: About the Author
       url: /mydoc_support.html
       output: web, pdf
 
@@ -310,4 +305,4 @@ entries:
           url: /tag_troubleshooting.html
           output: web
 
-# Copyright 2021 Google LLC
+# Copyright 2024 KSyP.tech
