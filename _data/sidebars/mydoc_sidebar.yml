@@ -20,7 +20,6 @@ entries:
 
   - title: Overview
     output: web, pdf
-    folderitems: Overview
 
     - title: Introduction
       url: /introduction.html
