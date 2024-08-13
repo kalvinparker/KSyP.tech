@@ -29,7 +29,7 @@ entries:
       url: /mydoc_support.html
       output: web, pdf
 
-    - title: Recommendations and Checklist
+    - title: Recommendations
       url: /mydoc_supported_features.html
       output: web, pdf
 
