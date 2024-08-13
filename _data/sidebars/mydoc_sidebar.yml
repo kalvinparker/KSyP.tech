@@ -26,16 +26,16 @@ entries:
       url: /mydoc_introduction.html
       output: web, pdf
 
+    - title: Risk Management and Assessments
+      url: /mydoc_support.html
+      output: web, pdf
+
     - title: Recommendations and Checklist
       url: /mydoc_supported_features.html
       output: web, pdf
 
     - title: Vendors and Developers
       url: /mydoc_about.html
-      output: web, pdf
-
-    - title: Assessments
-      url: /mydoc_support.html
       output: web, pdf
 
   - title: Operating Systems
