@@ -34,7 +34,7 @@ entries:
       url: /mydoc_about.html
       output: web, pdf
 
-    - title: About the Author
+    - title: Assessments
       url: /mydoc_support.html
       output: web, pdf
 
