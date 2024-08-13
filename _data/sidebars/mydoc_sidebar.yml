@@ -20,10 +20,10 @@ entries:
 
   - title: Overview
     output: web, pdf
-    folderitems:
+    folderitems: Overview
 
     - title: Introduction
-      url: /mydoc_introduction.html
+      url: /introduction.html
       output: web, pdf
 
     - title: Risk Management and Assessments
