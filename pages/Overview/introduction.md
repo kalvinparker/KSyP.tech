@@ -22,3 +22,5 @@ KSyP aims to equip organizations with the knowledge and strategies necessary to:
 Through a structured approach and practical insights, KSyP empowers users to build a resilient security posture and mitigate the risk of cyberattacks.
 
 By combining expert knowledge with actionable tools, KSyP becomes the trusted partner for organizations seeking to safeguard their digital assets.
+
+{% include links.html %}
