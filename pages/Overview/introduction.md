@@ -9,7 +9,7 @@ permalink: introduction.html
 folder: Overview
 ---
 
-# Overview
+## Overview
 
 KSyP is a comprehensive platform designed to empower organizations in effectively managing their IT security risks. By providing expert guidance, resources, and tools, KSyP assists businesses and individuals in navigating the complex landscape of information security governance.
 
