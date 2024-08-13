@@ -1,6 +1,6 @@
 ---
 title: Introduction
-tag: Overview
+tags: Overview
 sidebar: mydoc_sidebar
 permalink: introduction.html
 folder: Overview
