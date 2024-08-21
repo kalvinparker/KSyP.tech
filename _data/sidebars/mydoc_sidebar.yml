@@ -54,7 +54,7 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: Physical (Hardware) Devices
+  - title: Physical Devices (Hardware)
     output: web, pdf
     folderitems:
 
@@ -78,7 +78,7 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-  - title: Applications
+  - title: Applications (Software)
     output: web, pdf
 
     folderitems:
