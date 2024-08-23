@@ -1,4 +1,4 @@
-## Wireless Vulnerability Assessment Methodology
+## Wireless Vulnerability Assessment
 
 Wireless networks are susceptible to various security threats due to their broadcast nature and potential vulnerabilities in access points and client devices. A comprehensive wireless vulnerability assessment involves a combination of tools, techniques, and methodologies to identify and mitigate potential risks.
 
