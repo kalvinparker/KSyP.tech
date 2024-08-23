@@ -5,7 +5,7 @@ Wireless networks are susceptible to various security threats due to their broad
 ### Types of Testing
 
 1. **Detection of Wireless Networks:**
-   * **Passive Scanning:** Use tools like Kismet, NetStumbler, or Aircrack-ng to passively scan for wireless networks in the area. These tools can detect SSIDs, frequencies, and security protocols.
+   * **Passive Scanning:** Use tools like Kismet, or Aircrack-ng to scan for wireless networks in the area passively. These tools can detect SSIDs, frequencies, and security protocols.
    * **Active Scanning:** Send probe requests to wireless networks to elicit responses, which can provide additional information about the network's configuration.
 
 2. **RF Field Coverage Testing:**
