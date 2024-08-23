@@ -29,7 +29,6 @@ Wireless networks are susceptible to various security threats due to their broad
 * **Kismet:** A wireless network detector that can passively scan for networks and gather information about them.
 * **Wireshark:** A network protocol analyzer that can capture and analyze wireless network traffic.
 * **Ettercap:** A network sniffer and man-in-the-middle attack tool.
-* **NetStumbler:** A wireless network detector for Windows.
 * **Aircrack-ng:** A suite of tools for cracking wireless network passwords.
 
 ### Methodology
