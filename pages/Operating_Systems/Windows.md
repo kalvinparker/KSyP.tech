@@ -1,3 +1,14 @@
+---
+title: Microsoft Windows
+tags: Operating System
+keywords: "secure system design, system security, secure software development, secure by design, system architecture, security architecture, risk management, threat modeling, vulnerability assessment, compliance, data protection, privacy, cybersecurity, IT security, information security, secure coding, software security, application security, infrastructure security, cloud security, network security, secure development lifecycle, SDLC, DevOps security, DevSecOps, secure system development, secure system implementation, secure system maintenance"
+last_updated: "August 25, 2024"
+summary: "Windows is a popular operating system (OS) developed by Microsoft."
+sidebar: mydoc_sidebar
+permalink: Windows.html
+folder: Operating_Systems
+---
+
 ## Product Overview: Microsoft Windows
 
 **Microsoft Windows** is a popular operating system (OS) developed by Microsoft. It has been a dominant force in the personal computer market for decades, known for its user-friendly interface and wide range of applications. Windows is available in various versions, each tailored to different needs, including Windows 10, Windows 11, and Windows Server.
