@@ -181,3 +181,5 @@ folder: Operating_Systems
 * **Data Handling:** Windows provides features for data storage, management, security, and compliance.
 * **Security Certifications and Practices:** Microsoft is certified to various security standards and has internal security practices in place.
 * **Follow-On Risk Assessment:** A follow-on risk assessment should be conducted to evaluate the specific security risks and mitigation measures required for a Windows deployment.
+
+{% include links.html %}
