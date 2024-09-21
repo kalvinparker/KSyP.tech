@@ -4,12 +4,12 @@ add tag: Security+
 
 ### Confidentiality, Integrity, and Availability (CIA)
 * **Confidentiality:** Ensuring information remains private and accessible only to authorised individuals.
-   * **Encryption:** Transforming data into a secret code, making it unreadable to unauthorized parties.
-    * **Examples:** AES, RSA, ECC
-* **Access controls:** Limiting access to sensitive information based on user roles and permissions.
-    * **Examples:** Role-based access control (RBAC), attribute-based access control (ABAC)
-* **Data masking:** Hiding sensitive information within data sets.
-    * **Examples:** Tokenization, dynamic data masking
+  * ***Encryption:** Transforming data into a secret code, making it unreadable to unauthorized parties.
+    * ****Examples:** AES, RSA, ECC
+  * ***Access controls:** Limiting access to sensitive information based on user roles and permissions.
+    * ****Examples:** Role-based access control (RBAC), attribute-based access control (ABAC)
+  * ***Data masking:** Hiding sensitive information within data sets.
+    * ****Examples:** Tokenization, dynamic data masking
 * **Integrity:** Maintaining the accuracy and completeness of data, preventing unauthorised modifications.
    * Checksums
    * Code Signing
