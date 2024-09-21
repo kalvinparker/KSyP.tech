@@ -4,7 +4,12 @@ add tag: Security+
 
 ### Confidentiality, Integrity, and Availability (CIA)
 * **Confidentiality:** Ensuring information remains private and accessible only to authorised individuals.
-   * Encryption
+   * **Encryption:** Transforming data into a secret code, making it unreadable to unauthorized parties.
+    * **Examples:** AES, RSA, ECC
+* **Access controls:** Limiting access to sensitive information based on user roles and permissions.
+    * **Examples:** Role-based access control (RBAC), attribute-based access control (ABAC)
+* **Data masking:** Hiding sensitive information within data sets.
+    * **Examples:** Tokenization, dynamic data masking
 * **Integrity:** Maintaining the accuracy and completeness of data, preventing unauthorised modifications.
    * Checksums
    * Code Signing
@@ -60,3 +65,25 @@ add tag: Security+
     * **Honeynet:** A network of honeypots.
     * **Honeyfile:** A decoy file within a system.
     * **Honeytoken:** A fake piece of data designed to attract attackers.
+ 
+  ## Confidentiality, Integrity, and Availability (CIA)
+
+### Confidentiality
+
+
+### Integrity
+* **Checksums:** A mathematical calculation applied to data to verify its accuracy and detect modifications.
+    * **Examples:** MD5, SHA-256
+* **Code signing:** Verifying the authenticity and integrity of software by attaching a digital signature.
+    * **Examples:** Digital certificates, public-key infrastructure (PKI)
+* **Data validation:** Implementing rules to ensure data is consistent and accurate.
+    * **Examples:** Input validation, range checks
+
+### Availability
+* **Redundancy:** Creating backups or duplicates of data and systems to ensure continued access in case of failures.
+    * **Examples:** Data backups, server clustering, load balancing
+* **Disaster recovery planning:** Developing strategies to recover from major disruptions.
+    * **Examples:** Business continuity plans, hot sites, cold sites
+* **Fault tolerance:** Designing systems to continue operating even if components fail.
+    * **Examples:** RAID, redundant power supplies
+
