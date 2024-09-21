@@ -4,6 +4,7 @@ add tag: Security+
 
 ### Confidentiality, Integrity, and Availability (CIA)
 * **Confidentiality:** Ensuring information remains private and accessible only to authorized individuals.
+** Encryption
 * **Integrity:** Maintaining the accuracy and completeness of data, preventing unauthorized modifications.
 * **Availability:** Ensuring timely and reliable access to information and services.
 
