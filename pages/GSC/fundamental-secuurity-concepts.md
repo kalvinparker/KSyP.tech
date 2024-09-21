@@ -4,12 +4,16 @@ add tag: Security+
 
 ### Confidentiality, Integrity, and Availability (CIA)
 * **Confidentiality:** Ensuring information remains private and accessible only to authorized individuals.
-** Encryption
+   * Encryption
 * **Integrity:** Maintaining the accuracy and completeness of data, preventing unauthorized modifications.
+   * Checksums
+   * Code Signing
 * **Availability:** Ensuring timely and reliable access to information and services.
+   * Redundancy
 
 ### Non-Repudiation
 * Preventing parties from denying involvement in a transaction or communication.
+   * Digital signatures
 
 ### Authentication, Authorization, and Accounting (AAA)
 * **Authentication:** Verifying the identity of a user or system.
